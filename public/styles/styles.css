@@ -1,0 +1,20 @@
+.page {
+  margin: 60px auto 0;
+  text-align: center;
+  width: 60%;
+}
+
+input {
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 5px;
+  margin: 20px 0;
+  background-color: grey;
+  outline: none;
+}
+
+.question {
+font-weight: bold;
+text-decoration: underline;
+font-size: larger;
+}
